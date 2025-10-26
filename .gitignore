@@ -27,6 +27,9 @@ Transcription_folder/*.json
 !Transcription_folder/transcriber.py
 !Transcription_folder/media_transcriber.py/
 
+# Keep the folder structure
+!.gitkeep
+
 # Python
 __pycache__/
 *.py[cod]

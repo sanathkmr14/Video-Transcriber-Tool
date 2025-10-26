@@ -54,7 +54,3 @@ Change the model in the script:
 ```python
 model = whisper.load_model("medium")  # or any other model
 ```
-
-## License
-
-MIT
